@@ -1,0 +1,6 @@
+facebook.com##div.x1lliihq:has-text(Suggested for you)
+www.facebook.com###pagelet_canvas_nav_content
+www.facebook.com###pagelet_gaming_destination_rhc
+
+www.youtube.com##.ytp-ce-element
+
